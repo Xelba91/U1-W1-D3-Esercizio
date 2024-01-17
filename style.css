@@ -50,3 +50,11 @@ nav {
 nav span span{
     font-weight: 900;
 }
+
+ul {
+  margin-bottom: 2rem;
+}
+
+li {
+  margin-bottom: 1rem;
+}
